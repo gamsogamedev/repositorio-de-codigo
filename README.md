@@ -1,4 +1,4 @@
-# Repositório de códigos do GAMSo
+# Repositório de Códigos do GAMSo
 
 - Este repositório possui o objetivo de arquivar códigos de game-dev que possam ser úteis para a comunidade, sendo reutilizados ou servindo de base para auxiliar novos projetos, assim evitando o re-trabalho
 
