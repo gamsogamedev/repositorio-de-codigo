@@ -1,0 +1,1 @@
+tudo explicadin bem bunitin
